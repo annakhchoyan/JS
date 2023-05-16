@@ -1,0 +1,60 @@
+body {
+    background-color: #340c63;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    background-color: #e7a5c6;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    color: #b9b9b9;
+} 
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+#reset {
+    margin: 50px 40%;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    background-color: #bec99e;
+}
+
+.x {
+    color: #5c1753;
+    font-size: 80px;
+}
+
+.o {
+    color: #256F7A;
+    font-size: 80px;
+}
+
+.win {
+    background-color: rgb(178, 182, 180);
+}
+
+
+
+
+
+
+
+
+
+
+
+
